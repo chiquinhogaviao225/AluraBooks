@@ -7,3 +7,6 @@ body {
 h1 {
     background-color: black;
 }
+:root {
+    --cor-de-fundo: #EBECEE;
+}
