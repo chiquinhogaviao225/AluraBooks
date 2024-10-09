@@ -1,12 +1,9 @@
 :root {
-    --cor-de-fundo: #dfe4ea;
+    --cor-de-fundo: #EBECEE;
 }
 body {
     background-color: var(--cor-de-fundo);
 }
 h1 {
-    background-color: rgb(191, 19, 19);
-}
-:root {
-    --cor-de-fundo: #00246d;
+    background-color: white;
 }
