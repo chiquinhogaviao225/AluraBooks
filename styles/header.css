@@ -1,0 +1,7 @@
+.cabeçalho_menu-hanburguer {
+    width: 24xp;
+    height: 24xp;
+    background-image: url("../img/Menu.svg");
+    display: inline-block;
+
+}
