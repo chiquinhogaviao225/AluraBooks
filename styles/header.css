@@ -45,3 +45,10 @@ align-items: center;
 .lista-menu_titulo {
     color: var(--laranja);
 }
+
+.lista-menu_link {
+    background: var(--azul-degradde)
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+}
